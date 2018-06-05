@@ -29,9 +29,9 @@
             <li class="nav-item <?php print ($current_nav == 'subaccounts') ? 'active' : '';?>">
                 <a class="nav-link" href="<?php echo site_url('subaccounts'); ?>">Sub Accounts</a>
             </li>
-            <li class="nav-item">
-                <a class="nav-link" href="#"><strong style="color:red;">Logout</strong></a>
-            </li>
+<!--            <li class="nav-item">-->
+<!--                <a class="nav-link" href="#"><strong style="color:red;">Logout</strong></a>-->
+<!--            </li>-->
         </ul>
     </div>
 </nav>
